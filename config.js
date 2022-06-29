@@ -29,9 +29,9 @@ global.log0 = fs.readFileSync("./ZeroTwoMedia/image6.jpg") //ur logo pic
 global.err4r = fs.readFileSync("./ZeroTwoMedia/image5.jpg") //ur error pic
 global.thumb = fs.readFileSync("./ZeroTwoMedia/image5.jpg")
 
-global.ytname = "YT: Zero Two Multi Device"
-global.location = "India, Sultanpur, Uttar Pradesh"
-global.botscript = "https://github.com/SamPandey001/Zero-Two-Md"
+global.ytname = "YT"
+global.location = "people's heart"
+global.botscript = "✨✨ƪ(‾.‾“)┐ ƪ(˘⌣˘)ʃ 〜(꒪꒳꒪)〜✨✨"
 global.antitags = true
 global.rkyt = []
 global.banUser = []
@@ -79,7 +79,6 @@ global.mess = {
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     linkm: 'Where is the link dude?',
     ban: 'You are banned by the owner, if you want to be unbanned, chat with owner.',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
 }
 global.reac = {
