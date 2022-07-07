@@ -1,4 +1,14 @@
-<h1 align="center">🍭 𝗭𝗲𝗿𝗼 𝗧𝘄𝗼 𝗠𝗗 <br></h1>
+<h1 align="center">🍭 𝗭𝗲𝗿𝗼 𝗧𝘄𝗼 𝗠𝗗 🍭<br></h1>
+
+<p align="center">
+
+  <img src="https://user-images.githubusercontent.com/104565822/177012232-97866d97-0798-4ca2-9e56-5d0a2413642b.png" alt="21-akeno-wallpaper-Images-of-Akeno-Himejima-Wallpaper-industrious-info" />
+
+</p>
+
+<p align="center"> 
+
+  A Moduler WhatsApp Bot designed for both PM and Groups - To take your boring WhatsApp usage into a whole different level.
 
    
 ### Looking for NON MD,go there [NON MD ZERO TWO](https://github.com/Fantox001/Zero-Two)
@@ -7,8 +17,9 @@
 -  Click on Fork Button upwards right corner
 -  Click on `Scan Qr` button down blew
 -  `Open WhatsApp` > `Tap on three dot` > `Linked Devices` > `Link a Device`
--  You'll get `session.sam.json` in your log number upload that to forked repo
--  Click on `Deploy` purple 💜 button down blew and fill `config var` and tap on deploy
+-  You'll get `SESSION_ID` in your log number,Keep it safe
+-  Click on `Deploy` purple 💜 button down blew 
+-  Fill `Config Vars` and SESSION_ID which you acquired before and Tap on `DEPLOY`
 -  `Open Heroku` > `choose app` > `Resources` > `Tap on Pencil` and `Turn on Dynos`
 -  Bot is Working Now,Enjoy ♥️
 
